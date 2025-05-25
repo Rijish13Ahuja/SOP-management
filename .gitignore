@@ -1,0 +1,6 @@
+node_modules/
+uploads/
+documents.json
+.env
+.DS_Store
+frontend/node_modules
